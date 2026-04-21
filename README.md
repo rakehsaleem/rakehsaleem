@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Rakeh Saleem 👋
+# Hi, I'm Muhammad Rakeh Saleem
 
 ### Data Scientist | PhD in Engineering | AI Architect
 
