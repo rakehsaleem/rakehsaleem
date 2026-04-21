@@ -5,8 +5,8 @@
 I am a PhD-level Data Scientist specializing in the development of robust AI systems for high-stakes industrial applications. My expertise lies at the intersection of **Predictive Logistics**, **Computer Vision**, and **Structural Health Monitoring (SHM)**. I currently lead strategic demand modeling initiatives at **GA Telesis**, architecting end-to-end machine learning pipelines to solve complex aerospace supply chain challenges and infrastructure intelligence problems.
 
 ---
-
-## Core Specializations
+## Strategic Focus Areas
+I maintain a specialized project allocation to balance industrial operations with technical innovation:
 
 ### Predictive Logistics & Supply Chain Intelligence
 Architecting probabilistic forecasting frameworks for high-value aerospace components. My work focuses on:
@@ -39,6 +39,13 @@ My research career focuses on the application of deep learning to **Resilient In
 * **Doctorate in Engineering:** Specialized in Structural Health Monitoring and Artificial Intelligence.
 * **Research Focus:** Domain Adaptation for SHM, Saliency-based damage detection, and Multimodal Data Fusion.
 * **Professional Roadmap:** Currently pursuing the **AWS Certified Solutions Architect – Associate** to integrate deep learning models with cloud-native infrastructure.
+
+---
+
+## Professional Impact
+* **Aviation:** Developing scalable probabilistic models for zero-heavy intermittent demand patterns.
+* **Infrastructure:** Curating specialized datasets for concrete crack segmentation and structural integrity assessment.
+* **Software:** Building modular, backtested financial and technical "Labs" for algorithmic performance evaluation.
 
 ---
 
