@@ -1,48 +1,53 @@
-# Hi, I'm Muhammad Rakeh Saleem
+# Muhammad Rakeh Saleem, PhD
 
-### Data Scientist | PhD in Engineering | AI Architect
+### Senior Data Scientist | AI Architect | PhD in Engineering
 
-I’m a Data Scientist currently at **GA Telesis**, where I bridge the gap between complex engineering systems and advanced machine learning. My work focuses on building high-impact predictive models that solve real-world industrial challenges.
-
----
-
-## Professional Focus
-I operate on a **80/20 split** to maximize both business stability and technical innovation:
-
-* **80% Time-Series & Demand Modeling:** Leading aviation parts demand projects to optimize multi-million dollar inventory cycles and minimize AOG (Aircraft-on-Ground) risks.
-* **20% Computer Vision & Research:** Developing document extraction pipelines (DocTR/DonUT) and exploring eye-tracking integration for structural health monitoring.
+I am a PhD-level Data Scientist specializing in the development of robust AI systems for high-stakes industrial applications. My expertise lies at the intersection of **Predictive Logistics**, **Computer Vision**, and **Structural Health Monitoring (SHM)**. I currently lead strategic demand modeling initiatives at **GA Telesis**, architecting end-to-end machine learning pipelines to solve complex aerospace supply chain challenges and infrastructure intelligence problems.
 
 ---
 
-## Technical Toolkit
+## Core Specializations
 
-| Category | Tools & Technologies |
+### Predictive Logistics & Supply Chain Intelligence
+Architecting probabilistic forecasting frameworks for high-value aerospace components. My work focuses on:
+* **Intermittent Demand Modeling:** Leveraging **Temporal Fusion Transformers (TFT)** and ensemble learning to manage zero-heavy demand patterns.
+* **Operational Optimization:** Mitigating **Aircraft-on-Ground (AOG)** risks and lead-time volatility through advanced quantile regression and matrix profile analysis.
+* **Inventory Analytics:** Developing scalable pipelines to optimize global inventory cycles and financial forecasting.
+
+### Computer Vision & Applied AI Research
+Advancing "Expert-in-the-Loop" systems for automated inspection and document intelligence:
+* **Saliency-Driven Inspection:** Utilizing human eye-tracking data and Knowledge Distillation (**ViT to CNN**) to automate structural damage diagnostics.
+* **Document Intelligence:** Building sophisticated document extraction pipelines utilizing **DocTR**, **PaddleOCR**, and **DonUT** frameworks.
+* **Instance Segmentation:** Implementing Mask R-CNN architectures for high-precision concrete crack detection and structural integrity assessment.
+
+---
+
+## Technical Expertise
+
+| Domain | Expert Competencies |
 | :--- | :--- |
-| **Machine Learning** | Transformers (TFT), LightGBM, XGBoost, Matrix Profiles, Scikit-Learn |
-| **Deep Learning** | PyTorch, TensorFlow, Keras, Computer Vision (OCR, Saliency Prediction) |
-| **Data & Cloud** | AWS (SageMaker), Snowflake, MLflow, SQL, Python |
-| **Engineering** | Signal Processing, Structural Health Monitoring, Embedded Systems (IoT) |
+| **Machine Learning** | Intermittent Demand, Quantile Regression, Matrix Profiles, LightGBM, XGBoost |
+| **Deep Learning** | Vision Transformers (ViT), Saliency Prediction, Mask R-CNN, PyTorch, TensorFlow |
+| **Data Engineering** | AWS SageMaker, Snowflake, MLflow, SQL, ETL Pipeline Design |
+| **Engineering / IoT** | Signal Processing, Modal Analysis, LoRa, Wireless Smart Sensors, ROS |
 
 ---
 
-## Current Roadmap
-* **Certification:** Currently pursuing the **AWS Certified Solutions Architect – Associate** to deepen my cloud-native deployment expertise.
-* **Research:** Refining domain adaptation techniques for indirect bridge health monitoring.
-* **Aviation AI:** Scaleable probabilistic forecasting for intermittent demand patterns.
+## Academic & Research Background
+My research career focuses on the application of deep learning to **Resilient Infrastructure**, specifically capturing human cognitive expertise to improve the reliability of automated diagnostics.
+
+* **Doctorate in Engineering:** Specialized in Structural Health Monitoring and Artificial Intelligence.
+* **Research Focus:** Domain Adaptation for SHM, Saliency-based damage detection, and Multimodal Data Fusion.
+* **Professional Roadmap:** Currently pursuing the **AWS Certified Solutions Architect – Associate** to integrate deep learning models with cloud-native infrastructure.
 
 ---
 
-## Education & Background
-* **PhD in Engineering** – Specialized in Structural Health Monitoring and AI.
-* **Relocated:** Recently moved from the snowy hills of Pennsylvania to sunny **South Florida**.
-* **Vehicle:** Proud owner of a high-mileage Subaru Crosstrek—a data-gathering machine in its own right.
+## Professional Portfolios
+| [LinkedIn](https://www.linkedin.com/in/rakeh-saleem/) | [Technical Portfolio](https://rakehsaleem.github.io/) | [Google Scholar](https://rakehsaleem.github.io/) |
+| :--- | :--- | :--- |
 
 ---
 
-## Connect with Me
-* **LinkedIn:** [linkedin.com/in/rakehsaleem](https://www.linkedin.com/in/rakehsaleem)
-* **Portfolio:** [rakehsaleem.github.io](https://rakehsaleem.github.io)
-* **Email:** [msaleem@gatelesis.com]
-* ![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=radical)
+![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=radical&rank_icon=github)
 
-*"Turning high-frequency sensor noise into actionable business signals."*
+*"Translating high-frequency sensor data into actionable industrial intelligence."*
