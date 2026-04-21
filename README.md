@@ -44,6 +44,5 @@ I operate on a **80/20 split** to maximize both business stability and technical
 * **Portfolio:** [rakehsaleem.github.io](https://rakehsaleem.github.io)
 * **Email:** [msaleem@gatelesis.com]
 * ![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=radical)
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 *"Turning high-frequency sensor noise into actionable business signals."*
