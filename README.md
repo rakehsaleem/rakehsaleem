@@ -43,5 +43,6 @@ I operate on a **80/20 split** to maximize both business stability and technical
 * **LinkedIn:** [linkedin.com/in/rakehsaleem](https://www.linkedin.com/in/rakehsaleem)
 * **Portfolio:** [rakehsaleem.github.io](https://rakehsaleem.github.io)
 * **Email:** [Your Professional Email]
+* ![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=radical)
 
 *"Turning high-frequency sensor noise into actionable business signals."*
