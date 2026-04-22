@@ -54,5 +54,6 @@ My research career focuses on the application of deep learning to **Resilient In
 
 
 ![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 *"Translating high-frequency sensor data into actionable industrial intelligence."*
