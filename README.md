@@ -6,11 +6,6 @@
     />
   </a>
 </p>
-<p align="center">
-  <sub>
-    <a href="https://rakehsaleem.github.io/rakehsaleem/"></a>
-  </sub>
-</p>
 
 # Muhammad Rakeh Saleem, PhD
 
