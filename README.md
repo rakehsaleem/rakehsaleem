@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://rakehsaleem.github.io/rakehsaleem/" target="_blank">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=750&height=70&lines=Muhammad+Rakeh+Saleem%2C+PhD;Senior+Data+Scientist+%7C+AI+Architect;Computer+Vision+%7C+Predictive+Logistics+%7C+SHM" 
-      alt="Muhammad Rakeh Saleem"
-    />
+    <img src="assets/header.svg" alt="Muhammad Rakeh Saleem, PhD — Senior Data Scientist · AI Architect · Computer Vision" width="854"/>
   </a>
 </p>
 <p align="center">
