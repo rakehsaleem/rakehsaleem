@@ -57,4 +57,5 @@ My research career focuses on the application of deep learning to **Resilient In
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![Snake animation](https://raw.githubusercontent.com/rakehsaleem/rakehsaleem/output/github-snake.svg)
+
 *"Translating high-frequency sensor data into actionable industrial intelligence."*
