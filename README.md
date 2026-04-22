@@ -7,10 +7,6 @@
   </a>
 </p>
 
-# Muhammad Rakeh Saleem, PhD
-
-### Senior Data Scientist | AI Architect | PhD in Engineering
-
 I am a PhD-level Data Scientist specializing in the development of robust AI systems for high-stakes industrial applications. My expertise lies at the intersection of **Predictive Logistics**, **Computer Vision**, and **Structural Health Monitoring (SHM)**. I currently lead strategic demand modeling initiatives at **GA Telesis**, architecting end-to-end machine learning pipelines to solve complex aerospace supply chain challenges and infrastructure intelligence problems.
 
 ---
