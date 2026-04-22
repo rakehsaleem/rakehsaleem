@@ -1,5 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=300&section=header&text=Muhammad%20Rakeh%20Saleem,%20PhD&fontSize=60&fontColor=ffffff&animation=twinkle" />
+  <a href="https://rakehsaleem.github.io/rakehsaleem/" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=750&height=70&lines=Muhammad+Rakeh+Saleem%2C+PhD;Senior+Data+Scientist+%7C+AI+Architect;Computer+Vision+%7C+Predictive+Logistics+%7C+SHM" 
+      alt="Muhammad Rakeh Saleem"
+    />
+  </a>
+</p>
+<p align="center">
+  <sub>
+    <a href="https://rakehsaleem.github.io/rakehsaleem/">✦ Click for live interactive version</a>
+  </sub>
 </p>
 
 # Muhammad Rakeh Saleem, PhD
