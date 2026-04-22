@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=auto&fontAlignY=40&height=300&section=header&text=Hi,%20I'm%20Rakeh%20Saleem&fontSize=70&animation=fadeIn&fontAlign=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=300&section=header&text=Muhammad%20Rakeh%20Saleem,%20PhD&fontSize=60&fontColor=ffffff&animation=twinkle" />
+</p>
+
 # Muhammad Rakeh Saleem, PhD
 
 ### Senior Data Scientist | AI Architect | PhD in Engineering
