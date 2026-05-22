@@ -52,9 +52,6 @@ My research career focuses on the application of deep learning to **Resilient In
 * **Infrastructure:** Curating specialized datasets for concrete crack segmentation and structural integrity assessment.
 * **Software:** Building modular, backtested financial and technical "Labs" for algorithmic performance evaluation.
 
-
-![Rakeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakehsaleem&show_icons=true&theme=default&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakehsaleem&layout=compact)
 ![Snake animation](https://raw.githubusercontent.com/rakehsaleem/rakehsaleem/output/github-snake.svg)
 
 *"Translating high-frequency sensor data into actionable industrial intelligence."*
