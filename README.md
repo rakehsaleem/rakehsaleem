@@ -7,13 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://rakehsaleem.github.io/"><b>Portfolio Website</b></a> •
-  <a href="https://www.linkedin.com/in/rakeh-saleem/"><b>LinkedIn</b></a> •
-  <a href="https://scholar.google.com/citations?user=sNDGyTYAAAAJ&hl=en"><b>Google Scholar (340+ Citations)</b></a> •
-  <a href="mailto:rakeh.muhammad@gmail.com"><b>rakeh.muhammad@gmail.com</b></a>
-</p>
-
 ---
 
 ### About Me
