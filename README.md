@@ -23,7 +23,7 @@ I am a **Data Scientist and ML/AI Engineer (Ph.D.)** with 5+ years of experience
 - **On-Device Executive AI Agent:** Local autonomous desktop agent running **Qwen2.5 7B** on consumer GPU hardware via **LangGraph**, featuring 50+ system tools, SQLite memory checkpointers, hybrid ChromaDB RAG, wake-word voice (`faster-whisper` + `Piper TTS`), and strict human-in-the-loop safety tiers.
 
 #### 2. Probabilistic Forecasting & Multimodal Document AI
-- **Aviation Spare-Parts Demand Forecasting:** Multi-horizon **Temporal Fusion Transformer (TFT)**, LSTM, and LightGBM ensembles on **AWS SageMaker**, achieving **76% empirical coverage of 80% prediction intervals** over a 3-month horizon and an **11% MASE improvement** over baseline, backed by Snowflake-to-S3 ETL and MLflow tracking.
+- **Aviation Spare-Parts Demand Forecasting:** Multi-horizon **Temporal Fusion Transformer (TFT)**, LSTM, and LightGBM ensembles on **AWS SageMaker**, achieving **86% empirical coverage of 80% prediction intervals** over a 3-month horizon and an **11% MASE improvement** over baseline, backed by Snowflake-to-S3 ETL and MLflow tracking.
 - **On-Premise Document AI for PII Redaction:** Fine-tuned **LayoutLMv3** with **PaddleOCR** on 1,800 annotated aviation records and benchmarked against **Qwen-VL** and **Florence-2** across 50,000+ documents, authoring the 4-year cloud-vs-on-prem TCO break-even analysis.
 
 #### 3. Sim2Real Computer Vision & Edge Distillation
