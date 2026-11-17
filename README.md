@@ -10,7 +10,7 @@
 
 I am a **Data Scientist and ML/AI Engineer (Ph.D.)** with 5+ years of experience building and deploying production machine learning systems across **probabilistic time-series forecasting**, **multimodal computer vision**, and **agentic LLM workflows**. 
 
-- **Currently:** AI Engineer at **Kaba Construction**, architecting **MASON**—a two-stage multi-agent renovation platform in **LangGraph** that pairs multimodal LLM agents (Gemini, Claude) and Pydantic-validated structured outputs with deterministic Python pricing and **Google OR-Tools (CP-SAT)** crew scheduling.
+- **Currently:** AI Engineer at **Kaba Construction**, architecting **MASON**—a two-stage multi-agent renovation platform in **LangGraph** that pairs multimodal LLM agents and Pydantic-validated structured outputs with deterministic Python pricing and **Google OR-Tools (CP-SAT)** crew scheduling.
 - **Previously:** Data Scientist at **GA Telesis**, where I shipped a production intermittent-demand forecasting system for aviation spare parts on **AWS SageMaker** in 3.5 months and led an on-premise **Document AI** proof of concept (**LayoutLMv3, Qwen-VL, Florence-2**) for PII redaction across 50,000+ documents.
 - **Research Foundation:** Completed my Ph.D. at **Penn State**, developing gaze-supervised computer vision and **Vision Transformer (ViT)** distillation pipelines for automated structural and UAV inspection (**11 peer-reviewed publications, 340+ citations**; invited talks at **ETH Zurich** and **Thornton Tomasetti**).
 
@@ -20,7 +20,7 @@ I am a **Data Scientist and ML/AI Engineer (Ph.D.)** with 5+ years of experience
 
 #### 1. Agentic AI & Constrained Mathematical Optimization
 - **MASON (Multi-Agent Renovation & Scheduling Engine):** Two-stage autonomous pre-construction platform (`LangGraph`, `Streamlit`). Multimodal LLMs interpret site imagery and floor plans into Pydantic schemas, deterministic Python computes 100% of quantities and pricing, and a **Google OR-Tools CP-SAT** constraint program generates multi-trade crew schedules under precedence, skill, and room-occupancy limits.
-- **On-Device Executive AI Agent (`Sheikh Engine`):** Local autonomous desktop agent running **Qwen2.5 7B** on consumer GPU hardware via **LangGraph**, featuring 50+ system tools, SQLite memory checkpointers, hybrid ChromaDB RAG, wake-word voice (`faster-whisper` + `Piper TTS`), and strict human-in-the-loop safety tiers.
+- **On-Device Executive AI Agent:** Local autonomous desktop agent running **Qwen2.5 7B** on consumer GPU hardware via **LangGraph**, featuring 50+ system tools, SQLite memory checkpointers, hybrid ChromaDB RAG, wake-word voice (`faster-whisper` + `Piper TTS`), and strict human-in-the-loop safety tiers.
 
 #### 2. Probabilistic Forecasting & Multimodal Document AI
 - **Aviation Spare-Parts Demand Forecasting:** Multi-horizon **Temporal Fusion Transformer (TFT)**, LSTM, and LightGBM ensembles on **AWS SageMaker**, achieving **76% empirical coverage of 80% prediction intervals** over a 3-month horizon and an **11% MASE improvement** over baseline, backed by Snowflake-to-S3 ETL and MLflow tracking.
@@ -36,7 +36,7 @@ I am a **Data Scientist and ML/AI Engineer (Ph.D.)** with 5+ years of experience
 | Domain | Core Technologies & Methods |
 | :--- | :--- |
 | **Languages & APIs** | Python (NumPy, Pandas, scikit-learn), SQL, C++, FastAPI, REST APIs, Git, Streamlit |
-| **Agentic AI & Optimization** | LangGraph, LangChain, Structured Outputs (Claude, Gemini), Pydantic, Google OR-Tools (CP-SAT), ChromaDB (RAG) |
+| **Agentic AI & Optimization** | LangGraph, LangChain, Structured Outputs, Pydantic, Google OR-Tools (CP-SAT), ChromaDB (RAG) |
 | **ML & Deep Learning** | PyTorch, TensorFlow, Hugging Face (Fine-Tuning), Transformers (TFT, ViT), CNNs, LSTM, LightGBM, XGBoost, Optuna |
 | **Computer Vision & DocAI** | LayoutLMv3, Qwen-VL, Florence-2, PaddleOCR, docTR, OpenCV, Object Detection, Knowledge Distillation |
 | **Forecasting & Statistics** | Intermittent-Demand & Probabilistic Forecasting, Conformal Prediction, Quantile Regression, Croston/SBA, SARIMA, Matrix Profile, A/B Testing |
