@@ -7,9 +7,6 @@
   </a>
 </p>
 
----
-
-### About Me
 
 I am a **Data Scientist and ML/AI Engineer (Ph.D.)** with 5+ years of experience building and deploying production machine learning systems across **probabilistic time-series forecasting**, **multimodal computer vision**, and **agentic LLM workflows**. 
 
